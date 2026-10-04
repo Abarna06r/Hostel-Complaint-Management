@@ -358,4 +358,8 @@ git commit -m "feat: complete hostel complaint management system"
 git branch -M main
 git remote add origin https://github.com/<your-username>/hostel-complaint-management.git
 git push -u origin main
+
 ```
+<img width="1912" height="1077" alt="image" src="https://github.com/user-attachments/assets/11d98043-4cfb-4e2c-b029-7463a6d1f0e5" />
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d92400c1-9e77-47ee-8391-38a0800931b8" />
